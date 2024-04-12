@@ -1,1 +1,1 @@
-# bb84
+A class that implements the BB84 protocol and variants of this such that the specific circuits used by Alice, Bob, and Eve can (and need to) be specified by the user. For more information, refer to the [documentation here](https://the-codingschool.github.io/bb84/documentation/bb84.html).
